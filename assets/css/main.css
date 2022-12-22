@@ -1,3 +1,20 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+.title-meme {
+    font-family: 'Mitr', sans-serif;
+    font-style: oblique;
+    font-weight: 400;
+    font-size: xxx-large;
+}
+
+.sub-title-meme {
+    width: 200px;
+    font-family: 'Mitr', sans-serif;
+    font-weight: 300;
+    font-size: x-large;
+}
+
+
